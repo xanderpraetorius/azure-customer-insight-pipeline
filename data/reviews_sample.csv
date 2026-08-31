@@ -1,0 +1,16 @@
+product_id,reviewer_id,rating,review_text,category,verified
+B001,U001,5,Exceptional sound quality and battery life. Best headphones I have owned.,Electronics,1
+B001,U002,4,Great noise cancellation but slightly uncomfortable after long use.,Electronics,1
+B001,U003,2,Stopped working after two months. Very disappointing build quality.,Electronics,1
+B002,U004,5,Incredible bass and very loud for its size. Highly recommend.,Electronics,1
+B002,U005,3,Decent speaker but battery drains faster than advertised.,Electronics,0
+B003,U006,5,My back pain disappeared after switching to this chair. Worth every cent.,Furniture,1
+B003,U007,4,Very comfortable but assembly instructions were confusing.,Furniture,1
+B004,U008,5,Keeps water cold for 24 hours as promised. Excellent product.,Kitchen,1
+B004,U009,1,Lid started leaking after first wash. Complete waste of money.,Kitchen,1
+B005,U010,4,Very comfortable for long runs. True to size.,Sports,1
+B001,U011,3,"Average product, nothing special but does the job.",Electronics,0
+B002,U012,2,Terrible customer service when it broke after a week.,Electronics,1
+B003,U013,5,Best office chair I have ever used. Highly recommend.,Furniture,1
+B004,U014,4,Good quality but arrived with a small dent.,Kitchen,0
+B005,U015,5,Perfect fit and very comfortable for trail running.,Sports,1
